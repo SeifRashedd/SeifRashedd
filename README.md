@@ -47,9 +47,10 @@
   </a>
 </div>
 
-###
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=SeifRashedd.SeifRashedd&right_color=orange" />
 
-<br clear="both">
+
+
 
 <img src="https://raw.githubusercontent.com/SeifRashedd/SeifRashedd/output/snake.svg" alt="Snake animation" />
 
